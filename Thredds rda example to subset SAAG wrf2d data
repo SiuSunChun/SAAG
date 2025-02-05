@@ -1,0 +1,4 @@
+https://thredds.rda.ucar.edu/thredds/ncss/grid/files/g/ds616.0/hist2D/202011/wrf2d_d01_2020-11-01_000000.nc?var=T2&north=-6&west=-68&east=-59&south=-14&time_start=2020-11-01T00:00:00Z&time_end=2020-11-01T00:00:00Z&accept=netcdf4-classic&addLatLon=true
+
+
+https://thredds.rda.ucar.edu/thredds/ncss/grid/files/g/ds616.0/hist2D/202011/wrf2d_d01_2020-11-01_000000.nc?var=T2,TSK&north=-6&west=-68&east=-59&south=-14&time_start=2020-11-01T00:00:00Z&time_end=2020-11-01T00:00:00Z&accept=netcdf4-classic&addLatLon=true
